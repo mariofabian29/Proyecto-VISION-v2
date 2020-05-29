@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 0ade9478a3b69c0448690f3e73ebc540
+  - enabled: 0
+    path: 
+    guid: eef438c5ba8264548832621ceb6176cf
+  - enabled: 0
+    path: 
+    guid: ab4bb10d55c63be4a8083fcc221fbf99
+  - enabled: 1
+    path: Assets/Escenas/0- PantallaUsuario.unity
+    guid: 928b5752cd8f56a40a731c110d4f8726
+  - enabled: 1
+    path: Assets/Escenas/1- Video.unity
+    guid: fb7a6b48d63a0474998076465d086469
+  - enabled: 1
+    path: Assets/Escenas/2- Menu Principal.unity
+    guid: cc43795afe91683439707a50bcd1a28d
+  - enabled: 1
+    path: Assets/Escenas/3- Instrucciones.unity
+    guid: c18800b7c216084438b4cb48c8ff121b
+  - enabled: 1
+    path: Assets/Escenas/4- Informacion.unity
+    guid: 45d01bfd33ad20648bad73885307851f
+  - enabled: 1
+    path: Assets/Escenas/5- Escenario1.unity
+    guid: 12392e0dfd5f54544b280a5c318ae773
+  - enabled: 1
+    path: Assets/Escenas/6- Escenario2.unity
+    guid: aacc9285d7043d6489e7bd41717db10f
+  - enabled: 1
+    path: Assets/Escenas/7- Escenario3.unity
+    guid: 514be4e3b591dd8469141a2fd7e80c9f
+  - enabled: 1
+    path: Assets/Escenas/8- EscenarioCompleto.unity
+    guid: 80bd814750beadb4cb84d17ad05f1412
+  - enabled: 1
+    path: Assets/Escenas/9- VeConCuidado.unity
+    guid: e5274fb11f8eb0d4ea8470fd752a54f1
+  - enabled: 1
+    path: Assets/Escenas/10- EscenariosCompletos.unity
+    guid: 81c8f0df1169ec04a9fc755bf6f52a80
+  - enabled: 1
+    path: Assets/Escenas/11- TodoCompleto.unity
+    guid: 806f7dba94b6f1e4dba8fbcfa0f08c18
+  - enabled: 1
+    path: Assets/Escenas/12- IrAPruebas.unity
+    guid: db41fbe55f3d4a548815d0fbe80425e3
+  - enabled: 1
+    path: Assets/Escenas/13- Presentacion Escenario 1.unity
+    guid: 2ce5e912f4153cb48b45646486509a11
+  - enabled: 1
+    path: Assets/Escenas/Admin2.unity
+    guid: 6d26794bf007af447aacae15d1d7d2a2
+  - enabled: 1
+    path: Assets/Escenas/Admin1.unity
+    guid: e91564a4933aee446af5fded5bc934c3
+  - enabled: 1
+    path: Assets/Escenas/Formulario.unity
+    guid: 5fc8a1e232e0443488e145c7ca6f3b7d
+  m_configObjects: {}

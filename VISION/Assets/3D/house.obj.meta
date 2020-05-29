@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: daf3f976a88b4454aaf3e97d9cec6028
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aleron_aleron
+    100002: column_aleron
+    100004: door_knob_default
+    100006: door_New_Material
+    100008: frame_aleron
+    100010: frontporch_New_Material_2
+    100012: glass_glass
+    100014: //RootNode
+    100016: house_house
+    100018: patio_default
+    100020: roof_roof
+    100022: siding_aleron
+    400000: aleron_aleron
+    400002: column_aleron
+    400004: door_knob_default
+    400006: door_New_Material
+    400008: frame_aleron
+    400010: frontporch_New_Material_2
+    400012: glass_glass
+    400014: //RootNode
+    400016: house_house
+    400018: patio_default
+    400020: roof_roof
+    400022: siding_aleron
+    2100000: aleron_aleronMat
+    2100002: column_aleronMat
+    2100004: door_knob_defaultMat
+    2100006: door_New_MaterialMat
+    2100008: frame_aleronMat
+    2100010: frontporch_New_Material_2Mat
+    2100012: glass_glassMat
+    2100014: house_houseMat
+    2100016: patio_defaultMat
+    2100018: roof_roofMat
+    2100020: siding_aleronMat
+    2300000: aleron_aleron
+    2300002: column_aleron
+    2300004: door_knob_default
+    2300006: door_New_Material
+    2300008: frame_aleron
+    2300010: frontporch_New_Material_2
+    2300012: glass_glass
+    2300014: house_house
+    2300016: patio_default
+    2300018: roof_roof
+    2300020: siding_aleron
+    3300000: aleron_aleron
+    3300002: column_aleron
+    3300004: door_knob_default
+    3300006: door_New_Material
+    3300008: frame_aleron
+    3300010: frontporch_New_Material_2
+    3300012: glass_glass
+    3300014: house_house
+    3300016: patio_default
+    3300018: roof_roof
+    3300020: siding_aleron
+    4300000: aleron_aleron
+    4300002: column_aleron
+    4300004: door_knob_default
+    4300006: door_New_Material
+    4300008: frame_aleron
+    4300010: frontporch_New_Material_2
+    4300012: glass_glass
+    4300014: house_house
+    4300016: patio_default
+    4300018: roof_roof
+    4300020: siding_aleron
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
